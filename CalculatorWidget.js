@@ -6,7 +6,7 @@
         .image-container {
         width: 100%;
         height: 100px;
-    // background:url('https://github.com/kantzd/SACcalculator/AP%20Logo2.png') no-repeat center center;
+    // background:url('https://github.com/kantzd/SACcalculator/blob/main/AP%20Logo2.png?raw=true') no-repeat center center;
     background-size: cover;
     }
             .calculator {

@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "calculator-widget",
-			"url": "https://github.com/kantzd/SACcalculator/CalculatorWidget.js",
+			"url": "https://raw.githubusercontent.com/kantzd/SACcalculator/main/CalculatorWidget.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}		
