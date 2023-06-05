@@ -6,13 +6,13 @@
 	"vendor": "Planifyit",
 	"license": "",
 	"id": "calculatorwidget",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"icon": "",
 	"webcomponents": [
 		{
 			"kind": "main",
 			"tag": "calculator-widget",
-			"url": "https://planifyit.github.io/SAC_Calculator/CalculatorWidget.js",
+			"url": "https://github.com/kantzd/SACcalculator/blob/main/CalculatorWidget.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}		

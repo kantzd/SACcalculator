@@ -6,7 +6,7 @@
         .image-container {
         width: 100%;
         height: 100px;
-    background:url('data:image/png;base64,https://static.wixstatic.com/media/8b77db_ce192bc4c1b44ccca7a0a39d03d1a745~mv2.png/v1/fill/w_116,h_33,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AP%20Logo%20CMYK%20-%20Transparent.png') no-repeat center center;
+    background:url('data:image/png;base64,https://github.com/kantzd/SACcalculator/blob/main/%E2%80%A2Exaas%20Ext.%20Text%20Logo.png') no-repeat center center;
     background-size: cover;
     }
             .calculator {
@@ -96,7 +96,7 @@
 
        
             </div>
-    <a href="https://www.linkedin.com/company/planifyit" target="_blank" class="follow-link">Follow us on Linkedin - Planifyit</a>
+    <a href="https://www.linkedin.com/company/analysisprime/" target="_blank" class="follow-link">Follow us on Linkedin - Analysis Prime</a>
         </div>
     `;
 
